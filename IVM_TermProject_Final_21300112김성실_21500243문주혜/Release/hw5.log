@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\prime75\desktop\project\hw5_1차완성\main.cpp(813): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+LINK : fatal error LNK1104: cannot open file 'C:\Users\prime75\Desktop\project\hw5_1차완성\Release\hw5.exe'
